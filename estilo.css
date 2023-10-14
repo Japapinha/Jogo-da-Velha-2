@@ -1,0 +1,91 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #FFDEAD;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+#DivFolha{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: row;
+    
+    
+}
+#folha{
+    height: 100%;
+    width: auto;
+    
+    max-height: 100vh;
+    position: relative;
+    align-items: center;
+}
+#titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    color: #6f0303;
+    padding-right: 8px;
+    position: absolute;
+    align-items: center;  
+    display: block;
+    justify-content: center;
+    top:-2%;
+    left: 46.5%;
+    
+}
+#VelhaMaior{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    left: 39%;
+
+}
+
+#VelhaMenor{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    
+    
+
+}
+
+#X{
+    position: absolute;
+    width: 3%;
+    top: 90%;
+    left: 45%;
+    
+}
+
+#O{
+    position: absolute;
+    width: 4%;
+    top: 89%;
+    left: 55%;
+}
+
+#jogador1{
+    position: absolute;
+    top: 88%;
+    left: 40%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: #6f0303;
+}
+
+#jogador2{
+    position: absolute;
+    top: 88%;
+    left: 60%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: #6f0303;
+}
+

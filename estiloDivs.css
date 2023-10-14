@@ -1,0 +1,171 @@
+/*VELHA MENOR 1*/
+#VelhaMenor1{
+    width: 100px;
+    height: 100px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 13px;
+    position: absolute;
+    left: 40%;
+    top: 24.5%;
+    color: #000000;
+    text-align: center;
+    
+   
+}
+
+/*VELHA MENOR 2*/
+#VelhaMenor2{
+    width: 100px;
+    height: 100px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 13px;
+    position: absolute;
+    left: 48.7%;
+    top: 24.5%;
+    color: #000000;
+    text-align: center;
+     
+}
+
+/*VELHA MENOR 3*/
+#VelhaMenor3{
+    width: 100px;
+    height: 100px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 13px;
+    position: absolute;
+    left: 57.5%;
+    top: 24.5%;
+    color: #000000;
+    text-align: center;
+     
+}
+
+/*VELHA MENOR 4*/
+#VelhaMenor4{
+    width: 100px;
+    height: 100px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 13px;
+    position: absolute;
+    left: 40%;
+    top: 43.5%;
+    color: #000000;
+    text-align: center;
+     
+}
+
+/*VELHA MENOR 5*/
+#VelhaMenor5{
+    width: 100px;
+    height: 100px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 13px;
+    position: absolute;
+    left: 48.7%;
+    top: 43.5%;
+    color: #000000;
+    text-align: center;
+     
+}
+
+/*VELHA MENOR 6*/
+#VelhaMenor6{
+    width: 100px;
+    height: 100px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 13px;
+    position: absolute;
+    left: 57.5%;
+    top: 43.5%;
+    color: #000000;
+    text-align: center;
+     
+}
+
+/*VELHA MENOR 7*/
+#VelhaMenor7{
+    width: 100px;
+    height: 100px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 13px;
+    position: absolute;
+    left: 40%;
+    top: 62.3%;
+    color: #000000;
+    text-align: center;    
+}
+
+/*VELHA MENOR 8*/
+#VelhaMenor8{
+    width: 100px;
+    height: 100px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 13px;
+    position: absolute;
+    left: 48.7%;
+    top: 62.3%;
+    color: #000000;
+    text-align: center;    
+}
+
+/*VELHA MENOR 9*/
+#VelhaMenor9{
+    width: 100px;
+    height: 100px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 13px;
+    position: absolute;
+    left: 57.5%;
+    top: 62.3%;
+    color: #000000;
+    text-align: center;    
+}
+
+.estiloEspaco,
+.estiloEspaco2,
+.estiloEspaco3,
+.estiloEspaco4,
+.estiloEspaco5,
+.estiloEspaco6,
+.estiloEspaco7,
+.estiloEspaco8,
+.estiloEspaco9{
+    background-color: rgb(212, 254, 241);
+    min-width: 23px; 
+    min-height: 23px;
+    position: relative;
+    border-radius: 20%;
+    border: 1.5px solid #000000;
+    opacity: 40%;
+    z-index: 1; 
+}
+
+.estiloEspaco,
+.estiloEspaco2,
+.estiloEspaco3,
+.estiloEspaco4,
+.estiloEspaco5,
+.estiloEspaco6,
+.estiloEspaco7,
+.estiloEspaco8,
+.estiloEspaco9:hover{
+    cursor: pointer;
+    min-width: 22px; 
+    min-height: 22px;
+    z-index: 1;
+    background-color: rgb(153, 182, 173);
+}
+
+
+
+
