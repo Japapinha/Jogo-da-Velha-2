@@ -1,5 +1,7 @@
 # Jogo-da-Velha-2 💻👵
 
+**Link para o Jogo** https://japapinha.github.io/Jogo-da-Velha-2/<br>
+
 Vídeo de inspiração: https://www.instagram.com/reel/CxY7yU6RLTs/?igshid=NjZiM2M3MzIxNA==<br>
 
 ## Canal @Japa_Script 
